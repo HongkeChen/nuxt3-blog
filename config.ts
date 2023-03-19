@@ -11,7 +11,7 @@ export default {
 
   title: "Chen's blog",                                        // 网站标题
   nickName: "Chen",                                           // 昵称
-  domain: "https://blog.yunyuyuan.net",                        // rss域名
+  domain: "https://nuxt3-blog-2p1t.vercel.app/",                        // rss域名
   SEO_title: "陈某博客/Chen's blog",                              // 搜索引擎显示的标题
   SEO_description: "陈某的博客，书写随缘的东西",               // description meta header
   SEO_keywords: "Chen,Chen's blog,陈某,陈某的博客", // keywords meta header
